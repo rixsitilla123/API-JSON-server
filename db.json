@@ -1,0 +1,22 @@
+{
+	"users": [
+		{
+			"id": "1",
+			"img": "",
+			"name": "Rixsitilla",
+			"surname": "Nosirov",
+			"age": "18",
+			"study": "university"
+		}
+	],
+	"teachers": [
+		{
+			"id": "1",
+			"img": "",
+			"name": "Nurillo",
+			"surname": "Suyunboyev",
+			"age": "22",
+			"study": "National University"
+		}
+	]
+}
