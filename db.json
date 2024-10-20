@@ -1,22 +1,70 @@
 {
-	"users": [
-		{
-			"id": "1",
-			"img": "",
-			"name": "Rixsitilla",
-			"surname": "Nosirov",
-			"age": "18",
-			"study": "university"
-		}
-	],
-	"teachers": [
-		{
-			"id": "1",
-			"img": "",
-			"name": "Nurillo",
-			"surname": "Suyunboyev",
-			"age": "22",
-			"study": "National University"
-		}
-	]
+  "users": [
+    {
+      "id": "1",
+      "img": "",
+      "name": "Rixsitilla",
+      "surname": "Nosirov",
+      "age": "18",
+      "study": "university"
+    },
+    {
+      "id": "cb22",
+      "img": "blob:http://localhost:5173/8691274f-5916-40d3-b1a4-41ef65b1323f",
+      "name": "Rixsitilla",
+      "surname": "Nosirov",
+      "age": "20",
+      "study": "university"
+    },
+    {
+      "id": "5cf0",
+      "img": "blob:http://localhost:5173/6406f34e-62ba-4bed-b3f5-6f99e15fd4ae",
+      "name": "Nosirov",
+      "surname": "Rixsitilla",
+      "age": "44",
+      "study": "school"
+    },
+    {
+      "id": "5e60",
+      "img": "blob:http://localhost:5173/d7352274-a7f4-422e-9a13-7ef35cc01e28",
+      "name": "adsads",
+      "surname": "adadasd",
+      "age": "121212",
+      "study": "asasasaa"
+    },
+    {
+      "id": "dc0e",
+      "img": "blob:http://localhost:5173/a484e3f5-3f15-412a-9fe8-21e1454d8936",
+      "name": "asdada",
+      "surname": "asdsada",
+      "age": "21121",
+      "study": "sadada"
+    },
+    {
+      "id": "e5f3",
+      "img": "blob:http://localhost:5173/a0a42b76-f2b8-40ff-96bf-90640fec86dd",
+      "name": "asdad",
+      "surname": "adsad",
+      "age": "211",
+      "study": "asa"
+    },
+    {
+      "id": "bd2e",
+      "img": "blob:http://localhost:5173/68a55906-172b-4b84-990a-057fa841258f",
+      "name": "saasas",
+      "surname": "assasa",
+      "age": "1212",
+      "study": "asas"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "img": "",
+      "name": "Nurillo",
+      "surname": "Suyunboyev",
+      "age": "22",
+      "study": "National University"
+    }
+  ]
 }
